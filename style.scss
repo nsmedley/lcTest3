@@ -1457,7 +1457,8 @@ $lato: "Lato", sans-serif;
     text-align: center;
     padding: 35px 25px;
     color: #fff;
-    font-size: 18px;
+	font-size: 18px;
+	z-index: 999999;
 	span {
 		font-weight: bold;
 		display: block;
